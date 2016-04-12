@@ -87,5 +87,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Django-specific
+# Kevin's customizations start here
 db.sqlite3
+to-vagrant
